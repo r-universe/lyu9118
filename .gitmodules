@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EMMIXSSL"]
+	path = EMMIXSSL
+	url = https://github.com/cran/EMMIXSSL
+	shallow = true
+	registered = true
+[submodule "gmmsslm"]
+	path = gmmsslm
+	url = https://github.com/cran/gmmsslm
+	shallow = true
+	registered = true
